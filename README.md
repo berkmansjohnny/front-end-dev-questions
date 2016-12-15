@@ -28,3 +28,9 @@ Fun
 * Wat is uw favoriete feature van Internet Explorer?
 * Hoe heb je je koffie het liefst?
 * Zijn er mini-projecten in de pijpleiding?
+
+Beton
+* waar scripts plaatsen en waarom?
+* waarom een self-invoking function? (isolatie, avoid global conflict)
+* waarom dit best laten voorafgaan door een ;?
+* wat verandert er voor asset loading met http2?
